@@ -1,0 +1,9 @@
+google-generativeai>=0.7.0
+streamlit>=1.35.0
+python-dotenv>=1.0.0
+pydantic>=2.7.0
+pillow>=10.3.0
+rich>=13.7.0
+pandas>=2.2.0
+plotly>=5.22.0
+python-dateutil>=2.9.0
